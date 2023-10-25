@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+h1{
+    font-size: 4.62rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+h2{
+    font-size: 2.62rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+h3{
+    font-size: 1.88rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+h4{
+    font-size: 1.38rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #000000;
+}   
+
+h5{
+    font-size: 1.25rem;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+p{
+    font-size: 1.38rem;
+    font-family: 'Raleway';
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #031B49;
+}
+
+.p2{
+    font-size: 1rem;
+    font-family: 'Raleway';
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+.p3{
+    font-size: 0.74rem;
+    font-family: 'Raleway';
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+.button1{
+    font-size: 1.1rem;
+    font-family: 'Raleway';
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #000000;
+}
+
+
+.hero{
+    background: linear-gradient(to bottom, #007bff, #0056b3);
+}
+
+.font-raleway{
+    font-family: 'Raleway';
+}
