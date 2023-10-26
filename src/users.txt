@@ -1,0 +1,5 @@
+lien site web : 'https://sae301.chloerosetta.fr/'
+
+pocketbase admin :
+Login : chloe.rosetta@edu.univ-fcomte.fr
+Password : PocketbaseSAE301
