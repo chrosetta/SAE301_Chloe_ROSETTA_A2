@@ -5,6 +5,9 @@ import LunettePerso from "../assets/img/lunettePerso.vue";
 import moins from "../assets/icons/moins.vue";
 import plus from "../assets/icons/plus.vue";
 import trash from "../assets/icons/trash.vue";
+import PocketBase from 'pocketbase';
+
+const pb = new PocketBase('http://127.0.0.1:8090');
 </script>
 
 <template>
@@ -39,7 +42,7 @@ import trash from "../assets/icons/trash.vue";
     <RouterLink to="/catalogue">
       <div class="flex flex-row items-end gap-4 mx-12 my-24">
         <plus />
-        <p class="underline">Ajouter d'autres produits</p>
+        <p class="underline text-text2 sm:text-h5">Ajouter d'autres produits</p>
       </div>
     </RouterLink>
   </main>

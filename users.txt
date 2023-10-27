@@ -1,0 +1,23 @@
+Lien site web : 'https://sae301.chloerosetta.fr/'
+SI erreur d'affichage :
+        adresse ip : 193.168.146.231
+        login : root
+        mdp : B5MlyonTDK
+
+Lien repository Github : 'https://github.com/chrosetta/SAE301_Chloe_ROSETTA_A2.git'
+
+
+Pocketbase admin :
+        Login : chloe.rosetta@edu.univ-fcomte.fr
+        Password : PocketbaseSAE301
+
+
+Collection users :
+        Login : jmfino          ou      jmfino@gmail.com
+        Password : 123456789
+
+        Login : hmabed          ou      hmabed@gmail.com
+        Password : 123456789    
+
+        Login : amakhoul        ou      amakhoul@gmail.com
+        Password : 123456789

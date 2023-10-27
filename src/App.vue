@@ -2,7 +2,7 @@
 import { RouterLink, RouterView } from "vue-router";
 
 import PocketBase from "pocketbase";
-const pb = new PocketBase("pocketbase_ip");
+const pb = new PocketBase("http://127.0.0.1:8090");
 
 import logoBlue from "./assets/icons/logoBlue.vue";
 import panier from "./assets/icons/panier.vue";
